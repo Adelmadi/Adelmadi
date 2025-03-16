@@ -1,7 +1,6 @@
 # 👋 Welcome to Adel Madi's Profile
 
-![Profile Picture](/adel.jpg)
-
+<img src="/adel.jpg?raw=true" alt="Profile Picture" height="800">
 Hi there! I'm **Adel Madi**, a passionate Software Engineer specializing in **Data Science** and currently working as a **Frontend Developer**. With a strong foundation in building user-friendly and responsive web applications, I thrive on creating impactful solutions using modern technologies. I’m also an independent freelancer, working on exciting projects across various domains.
 
 ---
